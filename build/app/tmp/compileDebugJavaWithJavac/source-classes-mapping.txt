@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/mycalculator/BuildConfig.java
+ com.example.mycalculator.BuildConfig
+com/example/mycalculator/MainActivity.java
+ com.example.mycalculator.MainActivity
